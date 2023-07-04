@@ -10,6 +10,8 @@ app1 = FastAPI(
                )
 app1.include_router(inventory_router)
 app1.include_router(user_router)
+app1.include_router(middleware_router)
+
 
 
 app2 = FastAPI(
