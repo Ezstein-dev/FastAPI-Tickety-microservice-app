@@ -1,0 +1,1343 @@
+[
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "ticketapp.models.ticket_model",
+        "description": "ticketapp.models.ticket_model",
+        "isExtraImport": true,
+        "detail": "ticketapp.models.ticket_model",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "ticketapp.config.settings",
+        "description": "ticketapp.config.settings",
+        "isExtraImport": true,
+        "detail": "ticketapp.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing ",
+        "description": "typing ",
+        "isExtraImport": true,
+        "detail": "typing ",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi.background",
+        "description": "fastapi.background",
+        "isExtraImport": true,
+        "detail": "fastapi.background",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "starlette.requests",
+        "description": "starlette.requests",
+        "isExtraImport": true,
+        "detail": "starlette.requests",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security.oauth2",
+        "description": "fastapi.security.oauth2",
+        "isExtraImport": true,
+        "detail": "fastapi.security.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "conint",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis_connection",
+        "importPath": "redis_om",
+        "description": "redis_om",
+        "isExtraImport": true,
+        "detail": "redis_om",
+        "documentation": {}
+    },
+    {
+        "label": "HashModel",
+        "importPath": "redis_om",
+        "description": "redis_om",
+        "isExtraImport": true,
+        "detail": "redis_om",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy.sql.expression",
+        "description": "sqlalchemy.sql.expression",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.expression",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "importPath": "ticketapp.db.redis",
+        "description": "ticketapp.db.redis",
+        "isExtraImport": true,
+        "detail": "ticketapp.db.redis",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_constraint('ticket_pk_key', 'ticket', type_='unique')\n    op.drop_column('ticket', 'pk')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('ticket', sa.Column('pk', sa.INTEGER(), autoincrement=False, nullable=False))\n    op.create_unique_constraint('ticket_pk_key', 'ticket', ['pk'])\n    # ### end Alembic commands ###",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('ticket', sa.Column('pk', sa.INTEGER(), autoincrement=False, nullable=False))\n    op.create_unique_constraint('ticket_pk_key', 'ticket', ['pk'])\n    # ### end Alembic commands ###",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "revision = '0fdf41446f48'\ndown_revision = 'bb3c44f5a058'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_constraint('ticket_pk_key', 'ticket', type_='unique')\n    op.drop_column('ticket', 'pk')\n    # ### end Alembic commands ###\ndef downgrade() -> None:",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "down_revision = 'bb3c44f5a058'\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_constraint('ticket_pk_key', 'ticket', type_='unique')\n    op.drop_column('ticket', 'pk')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_constraint('ticket_pk_key', 'ticket', type_='unique')\n    op.drop_column('ticket', 'pk')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('ticket', sa.Column('pk', sa.INTEGER(), autoincrement=False, nullable=False))",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "description": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_constraint('ticket_pk_key', 'ticket', type_='unique')\n    op.drop_column('ticket', 'pk')\n    # ### end Alembic commands ###\ndef downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('ticket', sa.Column('pk', sa.INTEGER(), autoincrement=False, nullable=False))\n    op.create_unique_constraint('ticket_pk_key', 'ticket', ['pk'])",
+        "detail": "Alembic.versions.0fdf41446f48_remove_pk_from_ticket_table",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('password', sa.String(), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), server_default=sa.text('now()'), nullable=False),\n    sa.Column('phone_number', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('email')",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_index(op.f('ix_ticket_quantity'), table_name='ticket')\n    op.drop_index(op.f('ix_ticket_price'), table_name='ticket')\n    op.drop_index(op.f('ix_ticket_name'), table_name='ticket')\n    op.drop_index(op.f('ix_ticket_id'), table_name='ticket')\n    op.drop_index(op.f('ix_ticket_description'), table_name='ticket')\n    op.drop_table('ticket')\n    op.drop_table('users')\n    # ### end Alembic commands ###",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "revision = 'bb3c44f5a058'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('password', sa.String(), nullable=False),",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('password', sa.String(), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), server_default=sa.text('now()'), nullable=False),",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('password', sa.String(), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), server_default=sa.text('now()'), nullable=False),\n    sa.Column('phone_number', sa.String(), nullable=False),",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "description": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "peekOfCode": "depends_on = None\ndef upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('email', sa.String(), nullable=False),\n    sa.Column('password', sa.String(), nullable=False),\n    sa.Column('created_at', sa.TIMESTAMP(timezone=True), server_default=sa.text('now()'), nullable=False),\n    sa.Column('phone_number', sa.String(), nullable=False),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "Alembic.versions.bb3c44f5a058_create_all_tables",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "Alembic.env",
+        "description": "Alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "Alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "Alembic.env",
+        "description": "Alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "Alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "Alembic.env",
+        "description": "Alembic.env",
+        "peekOfCode": "config = context.config\nconfig.set_main_option(\"sqlalchemy.url\", f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}')\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "Alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "Alembic.env",
+        "description": "Alembic.env",
+        "peekOfCode": "target_metadata =  Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "Alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.api.inventory",
+        "description": "ticketapp.api.inventory",
+        "peekOfCode": "def get_ticket( db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)):\n    #check for all tickets\n    ticket = db.query(ticket_model.Ticket).all()\n    #check if ticket exist\n    if len(ticket) == 0:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=f\"No ticket is available\",\n        )\n    return ticket",
+        "detail": "ticketapp.api.inventory",
+        "documentation": {}
+    },
+    {
+        "label": "get_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.api.inventory",
+        "description": "ticketapp.api.inventory",
+        "peekOfCode": "def get_ticket(id: int, db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)):\n    #check for all tickets\n    ticket = db.query(ticket_model.Ticket).filter(ticket_model.Ticket.id == id).first()\n    #check if ticket exist\n    if ticket is None:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=f\"No ticket with id: {id}\",\n        )\n    return ticket",
+        "detail": "ticketapp.api.inventory",
+        "documentation": {}
+    },
+    {
+        "label": "update_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.api.inventory",
+        "description": "ticketapp.api.inventory",
+        "peekOfCode": "def update_ticket(id: int, updated_ticket: TicketCreate, db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)):\n    ticket_query = db.query(ticket_model.Ticket).filter(ticket_model.Ticket.id == id)\n    ticket = ticket_query.first()\n    print({\"ticket\": ticket})\n    if ticket is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, \n                            detail=f\"Ticket with id:{id} does not exist\")\n    if ticket.owner_id != current_user.id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, \n                            detail=\"Not authorized to perform requested action\")",
+        "detail": "ticketapp.api.inventory",
+        "documentation": {}
+    },
+    {
+        "label": "delete_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.api.inventory",
+        "description": "ticketapp.api.inventory",
+        "peekOfCode": "def delete_ticket(id: int, db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)):\n    ticket_query = db.query(ticket_model.Ticket).filter(ticket_model.Ticket.id == id)\n    ticket = ticket_query.first()\n    if ticket == None:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=f\"The ticket with the id:{id} is not available\",\n        )\n    if ticket.owner_id != current_user.id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Not authorized to perform requested action\")",
+        "detail": "ticketapp.api.inventory",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "ticketapp.api.inventory",
+        "description": "ticketapp.api.inventory",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/ticket\"\n    )\n@router.post(\"/\", response_model=TicketOut, status_code=status.HTTP_201_CREATED)\nasync def create_ticket(ticket: TicketCreate, db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)):\n    #store it into the database,and the current userID will be the ownerID\n    new_ticket = ticket_model.Ticket(owner_id=current_user.id, **ticket.dict())\n    db.add(new_ticket)\n    db.commit()\n    db.refresh(new_ticket)",
+        "detail": "ticketapp.api.inventory",
+        "documentation": {}
+    },
+    {
+        "label": "app1",
+        "kind": 5,
+        "importPath": "ticketapp.api.main",
+        "description": "ticketapp.api.main",
+        "peekOfCode": "app1 = FastAPI( \n               title = \"Tickety\",\n               version = \"0.1.0\"\n               )\napp1.include_router(inventory_router)\napp2 = FastAPI(\n    title = \"Tickety\",\n    version = \"0.1.0\"\n)\napp2.include_router(purchase_router)",
+        "detail": "ticketapp.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "app2",
+        "kind": 5,
+        "importPath": "ticketapp.api.main",
+        "description": "ticketapp.api.main",
+        "peekOfCode": "app2 = FastAPI(\n    title = \"Tickety\",\n    version = \"0.1.0\"\n)\napp2.include_router(purchase_router)\napp2.include_router(middleware_router)\napp2.include_router(user_router)",
+        "detail": "ticketapp.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "ticketapp.api.purchase",
+        "description": "ticketapp.api.purchase",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/order\"\n)\n@router.post(\"/\", status_code=status.HTTP_200_OK)\nasync def create_order(\n    request: Request,\n    background_tasks: BackgroundTasks,\n    current_user: int = Depends(token.get_current_user),\n    token_data: dict = Depends(token.get_current_user),\n    access_token: str = Depends(token.get_access_token)",
+        "detail": "ticketapp.api.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "ticketapp.auth.middleware",
+        "description": "ticketapp.auth.middleware",
+        "peekOfCode": "def login(user_credentials: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):\n    user = db.query(User).filter(User.email == user_credentials.username).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, \n                            detail=f\"Invalid Credentials\")\n    if not utils.verify(user_credentials.password, user.password):\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, \n                            detail=f\"Invalid Credentials\")\n    access_token = token.create_access_token(data = {\"user_id\": user.id})\n    return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "ticketapp.auth.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "ticketapp.auth.middleware",
+        "description": "ticketapp.auth.middleware",
+        "peekOfCode": "router = APIRouter(\n    prefix='/login',\n    tags=['Authentication']\n)\n@router.post('/', response_model=Token)\ndef login(user_credentials: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):\n    user = db.query(User).filter(User.email == user_credentials.username).first()\n    if not user:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, \n                            detail=f\"Invalid Credentials\")",
+        "detail": "ticketapp.auth.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "def create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_access_token(token: str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id: str = payload.get(\"user_id\")",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "verify_access_token",
+        "kind": 2,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "def verify_access_token(token: str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        id: str = payload.get(\"user_id\")\n        if id is None:\n            raise credentials_exception\n        token_data = TokenData(id=id)\n    except JWTError:\n        raise credentials_exception\n    return token_data",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "get_access_token",
+        "kind": 2,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "def get_access_token(authorization: str = Header(...)):\n    scheme, token = authorization.split()\n    if scheme.lower() != 'bearer':\n        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED,\n                            detail='Invalid authentication scheme')\n    return token\ndef get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):\n    credentials_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, \n                                            detail=f\"could not validate credentials\", \n                                            headers={\"WWW-Authenticate\": \"Bearer\"})",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):\n    credentials_exception = HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, \n                                            detail=f\"could not validate credentials\", \n                                            headers={\"WWW-Authenticate\": \"Bearer\"})\n    token = verify_access_token(token, credentials_exception)\n    user = db.query(User).filter(User.id == token.id).first()\n    return user",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl='login')\nSECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "SECRET_KEY = settings.secret_key\nALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_access_token(token: str, credentials_exception):",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "ALGORITHM = settings.algorithm\nACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_access_token(token: str, credentials_exception):\n    try:",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "ticketapp.auth.token",
+        "description": "ticketapp.auth.token",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes\ndef create_access_token(data: dict):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef verify_access_token(token: str, credentials_exception):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "ticketapp.auth.token",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "def create_user(user: ticket_schemas.UserCreate, db: Session = Depends(get_db)):\n    hashed_password = utils.hash(user.password)\n    user.password = hashed_password\n    new_user = ticket_model.User(**user.dict())\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return new_user\n@router.get(\"/{id}\", response_model=ticket_schemas.UserOut)\ndef get_user(",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "def get_user(\n    id: int,\n    db: Session = Depends(get_db),\n    current_user: int = Depends(token.get_current_user),\n):\n    user = db.query(ticket_model.User).filter(ticket_model.User.id == id).first()\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=f\"user with the id: {id} does not exist\",",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "def get_all_users(\n    db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)\n):\n    users = db.query(ticket_model.User).all()\n    if not users:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND,\n            detail=\"No user on the platform currently\",\n        )\n    return users",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_password",
+        "kind": 2,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "def update_user_password(\n    id: int,\n    user_password: ticket_schemas.UserPassword,\n    db: Session = Depends(get_db),\n    current_user: int = Depends(token.get_current_user),\n):\n    user = db.query(ticket_model.User).filter(ticket_model.User.id == id).first()\n    if not utils.verify(user_password.old_password, user.password): \n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED, detail=\"Invalid credentials\"",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_account",
+        "kind": 2,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "def delete_user_account(\n    id: int, db: Session = Depends(get_db), current_user: int = Depends(token.get_current_user)\n):\n    user_query = db.query(ticket_model.User).filter(ticket_model.User.id == id)\n    user = user_query.first()\n    if user == None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, \n                        detail=f\"User with id:{id} does not exist\")\n    if user.id != current_user.id:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, ",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "ticketapp.auth.user",
+        "description": "ticketapp.auth.user",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n@router.post(\n    \"/\", status_code=status.HTTP_201_CREATED, response_model=ticket_schemas.UserOut\n)\ndef create_user(user: ticket_schemas.UserCreate, db: Session = Depends(get_db)):\n    hashed_password = utils.hash(user.password)\n    user.password = hashed_password\n    new_user = ticket_model.User(**user.dict())\n    db.add(new_user)\n    db.commit()",
+        "detail": "ticketapp.auth.user",
+        "documentation": {}
+    },
+    {
+        "label": "hash",
+        "kind": 2,
+        "importPath": "ticketapp.auth.utils",
+        "description": "ticketapp.auth.utils",
+        "peekOfCode": "def hash(password: str):\n    return pwd_context.hash(password)\ndef verify(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "ticketapp.auth.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify",
+        "kind": 2,
+        "importPath": "ticketapp.auth.utils",
+        "description": "ticketapp.auth.utils",
+        "peekOfCode": "def verify(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "ticketapp.auth.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "ticketapp.auth.utils",
+        "description": "ticketapp.auth.utils",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash(password: str):\n    return pwd_context.hash(password)\ndef verify(plain_password, hashed_password):\n    return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "ticketapp.auth.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "ticketapp.config.settings",
+        "description": "ticketapp.config.settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    database_hostname: str\n    database_port: str\n    database_password: str\n    database_name: str\n    database_username: str\n    redis_host: str\n    redis_port: str\n    redis_password: str\n    secret_key: str",
+        "detail": "ticketapp.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "ticketapp.config.settings",
+        "description": "ticketapp.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "ticketapp.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "ticketapp.db.postgres",
+        "description": "ticketapp.db.postgres",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        print(\"Database conection was successful\")\n        db.close()",
+        "detail": "ticketapp.db.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "ticketapp.db.postgres",
+        "description": "ticketapp.db.postgres",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f'postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}'\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        print(\"Database conection was successful\")",
+        "detail": "ticketapp.db.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "ticketapp.db.postgres",
+        "description": "ticketapp.db.postgres",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        print(\"Database conection was successful\")\n        db.close()",
+        "detail": "ticketapp.db.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "ticketapp.db.postgres",
+        "description": "ticketapp.db.postgres",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        print(\"Database conection was successful\")\n        db.close()",
+        "detail": "ticketapp.db.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "ticketapp.db.postgres",
+        "description": "ticketapp.db.postgres",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        print(\"Database conection was successful\")\n        db.close()",
+        "detail": "ticketapp.db.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 5,
+        "importPath": "ticketapp.db.redis",
+        "description": "ticketapp.db.redis",
+        "peekOfCode": "redis = get_redis_connection(\n    host = f'{settings.redis_host}',\n    port = settings.redis_port,\n    password = f\"{settings.redis_password}\",\n    decode_responses = True,\n)",
+        "detail": "ticketapp.db.redis",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "kind": 6,
+        "importPath": "ticketapp.models.ticket_model",
+        "description": "ticketapp.models.ticket_model",
+        "peekOfCode": "class Ticket(Base):\n    __tablename__ = \"ticket\"\n    id = Column(Integer, primary_key=True, nullable=False, index=True)\n    name = Column(String, nullable=False, index=True)\n    description = Column(String, nullable=False, index=True) #description can contain event location, precaution during event and other necessary information\n    price = Column(Float, nullable=False, index=True)\n    quantity = Column(Integer, nullable=False, index=True)\n    created_at = Column(TIMESTAMP(timezone=True), nullable=False, server_default=text('now()'))\n    owner_id = Column(Integer, ForeignKey(\"users.id\", ondelete=\"CASCADE\"), nullable=False)\n    owner = relationship(\"User\")",
+        "detail": "ticketapp.models.ticket_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "ticketapp.models.ticket_model",
+        "description": "ticketapp.models.ticket_model",
+        "peekOfCode": "class User(Base):\n    __tablename__= \"users\"\n    id = Column(Integer, primary_key=True, nullable=False)\n    email = Column(String, nullable=False, unique=True)\n    password = Column(String, nullable=False)\n    created_at = Column(TIMESTAMP(timezone=True), nullable=False, server_default=text('now()'))\n    phone_number = Column(String, nullable=False) #phone no should be unique",
+        "detail": "ticketapp.models.ticket_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    email: EmailStr\n    password: str\n    phone_number: str\nclass UserOut(BaseModel):\n    id: int\n    email: EmailStr\n    created_at: datetime\n    class Config:\n        orm_mode = True",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserOut",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class UserOut(BaseModel):\n    id: int\n    email: EmailStr\n    created_at: datetime\n    class Config:\n        orm_mode = True\nclass User(BaseModel):\n    id: int\n    created_at: datetime\n    class Config:",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class User(BaseModel):\n    id: int\n    created_at: datetime\n    class Config:\n        orm_mode = True\nclass UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserPassword(BaseModel):\n    old_password: str",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserPassword(BaseModel):\n    old_password: str\n    new_password1: str\n    new_password2: str\nclass Token(BaseModel):\n    access_token: str\n    token_type: str",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserPassword",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class UserPassword(BaseModel):\n    old_password: str\n    new_password1: str\n    new_password2: str\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None\nclass TicketCreate(BaseModel):",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None\nclass TicketCreate(BaseModel):\n    name: str\n    description: str\n    price: float\n    quantity: int",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    id: Optional[str] = None\nclass TicketCreate(BaseModel):\n    name: str\n    description: str\n    price: float\n    quantity: int\nclass TicketOut(TicketCreate):\n    id: int\n    owner_id: int",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TicketCreate",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class TicketCreate(BaseModel):\n    name: str\n    description: str\n    price: float\n    quantity: int\nclass TicketOut(TicketCreate):\n    id: int\n    owner_id: int\n    created_at: datetime\n    class Config:",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TicketOut",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class TicketOut(TicketCreate):\n    id: int\n    owner_id: int\n    created_at: datetime\n    class Config:\n        orm_mode = True\nclass Ticket(TicketOut):\n    id: int\n    owner_id: int\n    created_at: datetime",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class Ticket(TicketOut):\n    id: int\n    owner_id: int\n    created_at: datetime\n    class Config:\n        orm_mode = True\n        exclude = [\"created_at\"]\nclass TicketQuantity(BaseModel):\n    quantity: int\nclass Order(HashModel):",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TicketQuantity",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class TicketQuantity(BaseModel):\n    quantity: int\nclass Order(HashModel):\n    product_id: str\n    price: float\n    fee: float\n    total: float\n    quantity: int\n    status: str  # pending, completed, refunded\n    class Meta:",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class Order(HashModel):\n    product_id: str\n    price: float\n    fee: float\n    total: float\n    quantity: int\n    status: str  # pending, completed, refunded\n    class Meta:\n        database = redis\nclass Token(BaseModel):",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    id: Optional[str] = None",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "ticketapp.schemas.ticket_schemas",
+        "description": "ticketapp.schemas.ticket_schemas",
+        "peekOfCode": "class TokenData(BaseModel):\n    id: Optional[str] = None",
+        "detail": "ticketapp.schemas.ticket_schemas",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.tests.inventory_test",
+        "description": "ticketapp.tests.inventory_test",
+        "peekOfCode": "def test_create_ticket():\n    # Test creating a new ticket\n    ticket_data = {\n        \"name\": \"Test Ticket\",\n        \"description\": \"This is a test ticket\",\n        \"price\": 9.99,\n        \"quantity\": 10\n    }\n    response = client.post(\"/ticket/\", json=ticket_data)\n    assert response.status_code == 201",
+        "detail": "ticketapp.tests.inventory_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.tests.inventory_test",
+        "description": "ticketapp.tests.inventory_test",
+        "peekOfCode": "def test_update_ticket():\n    # Create a new ticket\n    ticket_id = test_create_ticket()\n    # Update the ticket\n    updated_ticket_data = {\n        \"name\": \"Updated Ticket\",\n        \"description\": \"This ticket has been updated\",\n        \"price\": 19.99,\n        \"quantity\": 5\n    }",
+        "detail": "ticketapp.tests.inventory_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_ticket",
+        "kind": 2,
+        "importPath": "ticketapp.tests.inventory_test",
+        "description": "ticketapp.tests.inventory_test",
+        "peekOfCode": "def test_delete_ticket():\n    # Create a new ticket\n    ticket_data = {\n        \"name\": \"Test Ticket\",\n        \"description\": \"This is a test ticket\",\n        \"price\": 9.99,\n        \"quantity\": 10\n    }\n    response = client.post(\"/ticket/\", json=ticket_data)\n    ticket = response.json()",
+        "detail": "ticketapp.tests.inventory_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "ticketapp.tests.inventory_test",
+        "description": "ticketapp.tests.inventory_test",
+        "peekOfCode": "client = TestClient(app)\ndef test_create_ticket():\n    # Test creating a new ticket\n    ticket_data = {\n        \"name\": \"Test Ticket\",\n        \"description\": \"This is a test ticket\",\n        \"price\": 9.99,\n        \"quantity\": 10\n    }\n    response = client.post(\"/ticket/\", json=ticket_data)",
+        "detail": "ticketapp.tests.inventory_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestPurchase",
+        "kind": 6,
+        "importPath": "ticketapp.tests.purchase_test",
+        "description": "ticketapp.tests.purchase_test",
+        "peekOfCode": "class TestPurchase(unittest.TestCase):\n    def test_create_order(self):\n        # Test creating a new order\n        response = client.post(\n            \"/orders/\",\n            json={\"id\": 1, \"quantity\": 2},\n        )\n        self.assertEqual(response.status_code, 200)\n    def test_create_order_with_invalid_ticket(self):\n        # Test creating a new order with an invalid ticket ID",
+        "detail": "ticketapp.tests.purchase_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "ticketapp.tests.purchase_test",
+        "description": "ticketapp.tests.purchase_test",
+        "peekOfCode": "client = TestClient(app)\nclass TestPurchase(unittest.TestCase):\n    def test_create_order(self):\n        # Test creating a new order\n        response = client.post(\n            \"/orders/\",\n            json={\"id\": 1, \"quantity\": 2},\n        )\n        self.assertEqual(response.status_code, 200)\n    def test_create_order_with_invalid_ticket(self):",
+        "detail": "ticketapp.tests.purchase_test",
+        "documentation": {}
+    },
+    {
+        "label": "importlib_load_entry_point",
+        "kind": 2,
+        "importPath": "venv.Scripts.jose-script",
+        "description": "venv.Scripts.jose-script",
+        "peekOfCode": "def importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')\n    matches = (\n        entry_point\n        for entry_point in distribution(dist_name).entry_points\n        if entry_point.group == group and entry_point.name == name\n    )\n    return next(matches).load()\nglobals().setdefault('load_entry_point', importlib_load_entry_point)\nif __name__ == '__main__':",
+        "detail": "venv.Scripts.jose-script",
+        "documentation": {}
+    },
+    {
+        "label": "__requires__",
+        "kind": 5,
+        "importPath": "venv.Scripts.jose-script",
+        "description": "venv.Scripts.jose-script",
+        "peekOfCode": "__requires__ = 'jose==1.0.0'\ntry:\n    from importlib.metadata import distribution\nexcept ImportError:\n    try:\n        from importlib_metadata import distribution\n    except ImportError:\n        from pkg_resources import load_entry_point\ndef importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')",
+        "detail": "venv.Scripts.jose-script",
+        "documentation": {}
+    },
+    {
+        "label": "stream_messages",
+        "kind": 5,
+        "importPath": "n",
+        "description": "n",
+        "peekOfCode": "stream_messages = redis.xread({'completed_order': '0'})\n# Iterate over the messages and parse the order data\nfor _, messages in stream_messages:\n    for message in messages:\n        order_data = message[1]\n        print(order_data)",
+        "detail": "n",
+        "documentation": {}
+    }
+]
